@@ -12,12 +12,12 @@ To start game operation, press the user button on the first STM (Connected to th
 The user can now play the game by removing the weight and following the text on the screen. <br><br>
 # Modules
 Board communications <br>
-This module will interface the communications between a master board and slave boards. Utilising GPIO functions to send and receive signals within the system. \\
+This module will interface the communications between a master board and slave boards. Utilising GPIO functions to send and receive signals within the system. <br>
 Statue Stealing <br>
 This module is based off the iconic movie scene from "The Temple of Doom" where Indiana steals the totem. In this game, the player will take the original token off the weight table and attempt to replace it with another token within 10 seconds. <br>
 Boulder Bolt <br>
-The proceedings of this game is dependent on the outcome of the previous game. If the player was able to place an object of equal weight on the table, the gate will close and Indiana is saved from the giant falling boulder. If the player is unsuccessful, the boulder will crash onto Indiana and they lose.
+The proceedings of this game is dependent on the outcome of the previous game. If the player was able to place an object of equal weight on the table, the gate will close and Indiana is saved from the giant falling boulder. If the player is unsuccessful, the boulder will crash onto Indiana and they lose.<br>
 Spin or Sink <br>
-In this next game, Indiana has found himself in a predicament. Water is quickly filling the room that he is currently trapped in, but you can help. By twisting the lock found on the box to the correct code in the game area, you can pause the water and stop it from drowning him.
+In this next game, Indiana has found himself in a predicament. Water is quickly filling the room that he is currently trapped in, but you can help. By twisting the lock found on the box to the correct code in the game area, you can pause the water and stop it from drowning him.<br>
 X Marks the Spot <br>
 Strap on your boots and get your binoculars ready, it is time to head outside! Remember to pick up your trusty GPS located on the table and make your way to the destination outside which is marked with an X. <br>
